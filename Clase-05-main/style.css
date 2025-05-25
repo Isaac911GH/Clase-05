@@ -11,7 +11,7 @@ form{
 h2{
     margin-top: 40px;
     text-align: center;
-
+    
 }
 
 #average{
@@ -63,12 +63,12 @@ table{
 
 
 th{
-
+    
     border: 2px solid black;
     font-size: 22px;
     padding: 10px;
     width: 200px;
-
+    
 }
 
 td{
