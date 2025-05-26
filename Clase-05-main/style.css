@@ -1,7 +1,7 @@
 form{
     text-align: center;
     margin: auto;
-    border: 2px blue solid;
+    border: 2px rgb(168, 12, 12) solid;
     padding: 20px;
     width: 450px;
     border-radius: 25px;
@@ -16,15 +16,15 @@ h2{
 
 #average{
     text-align: center;
-    border: 2px blue solid;
-    color: blue;
+    border: 2px rgb(214, 44, 21) solid;
+    color: rgb(197, 61, 19);
     width: 450px;
     margin: auto;
     padding: 10px;
     margin-bottom: 40px;
     margin-top: 40px;
     font-size: x-large;
-    background: rgb(204, 250, 250);
+    background: rgba(114, 205, 218, 0.548);
 }
 
 input{
@@ -47,7 +47,7 @@ button{
     margin: 15px;
     display: flex;
     padding: 10px;
-    background: blue;
+    background: rgb(245, 4, 4);
     color: white;
     border-radius: 10px;
 }
@@ -64,7 +64,7 @@ table{
 
 th{
     
-    border: 2px solid black;
+    border: 2px solid rgb(163, 8, 8);
     font-size: 22px;
     padding: 10px;
     width: 200px;
@@ -72,7 +72,7 @@ th{
 }
 
 td{
-    border: 2px solid black;
+    border: 2px solid rgb(162, 189, 9);
     padding: 10px;
     width: 90px;
     font-size: 22px;
@@ -106,4 +106,15 @@ td{
     #average {
         font-size: 20px;
     }
+}
+#estadisticas {
+text-align: center;
+width: 450px;
+margin: auto;
+padding: 10px;
+font-size: large;
+background: rgb(218, 167, 167);
+border: 2px solid gray;
+border-radius: 10px;
+margin-bottom: 30px;
 }
